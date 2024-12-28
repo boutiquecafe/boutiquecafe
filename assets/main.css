@@ -18,6 +18,18 @@ body {
     min-height: 100vh;
 }
   
+df-messenger {
+    --df-messenger-bot-message: #b0954a; /* Mensagem do bot com cor de destaque */
+    --df-messenger-button-titlebar-color: #111111; /* Fundo da barra de título escuro */
+    --df-messenger-button-titlebar-font-color: #F5F5F5; /* Texto do título em branco suave */
+    --df-messenger-chat-background-color: #1E1E1E; /* Fundo do chat levemente mais claro */
+    --df-messenger-font-color: #FFFFFF; /* Texto em branco para melhor legibilidade */
+    --df-messenger-send-icon: #a58d49; /* Ícone de envio com cor de destaque */
+    --df-messenger-user-message: #333333; /* Mensagem do usuário com contraste suave */
+    --df-messenger-chat-title-color: #F5F5F5; /* Cor do título do chat em branco suave */
+}
+
+
 
 /* header */
 
